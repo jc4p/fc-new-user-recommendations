@@ -97,7 +97,6 @@ Applies the trained model to score all users in the network.
 ```bash
 ./export_quality_data.sh
 ```
-**NEW STEP**: Uses DuckDB CLI to efficiently export filtered casts with engagement metrics.
 This step optimizes RAM usage and reduces CPU bottleneck during data retrieval.
 
 ### 7. Filter Quality Content
