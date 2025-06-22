@@ -1,0 +1,7 @@
+__pycache__/*
+.claude/*
+data/*.csv
+data/*.parquet
+data/*.png
+data/*.json
+models/*.pkl
